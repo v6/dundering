@@ -1,3 +1,6 @@
+# Binaries specific to this program
+dundering
+
 # Binaries for programs and plugins
 *.exe
 *.dll
